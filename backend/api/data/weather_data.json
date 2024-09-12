@@ -1,0 +1,214 @@
+[
+    {
+        "weather": [
+            {
+                "city": "Alor Setar",
+                "temperature": "33\u00b0",
+                "condition_icon": "/images/weathericons/4.svg"
+            },
+            {
+                "city": "Ampang Jaya",
+                "temperature": "29\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Batu Pahat",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "George Town",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Ipoh",
+                "temperature": "32\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Johor Bahru",
+                "temperature": "30\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Kota Bharu",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Kota Kinabalu",
+                "temperature": "32\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Kuala Lumpur",
+                "temperature": "29\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Kuala Terengganu",
+                "temperature": "32\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Kuantan",
+                "temperature": "33\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Kuching",
+                "temperature": "33\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Malacca",
+                "temperature": "24\u00b0",
+                "condition_icon": "/images/weathericons/18.svg"
+            },
+            {
+                "city": "Petaling Jaya",
+                "temperature": "28\u00b0",
+                "condition_icon": "/images/weathericons/6.svg"
+            },
+            {
+                "city": "Port Klang",
+                "temperature": "25\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Putrajaya",
+                "temperature": "23\u00b0",
+                "condition_icon": "/images/weathericons/18.svg"
+            },
+            {
+                "city": "Sandakan",
+                "temperature": "30\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Seremban",
+                "temperature": "26\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Shah Alam",
+                "temperature": "25\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Subang Jaya",
+                "temperature": "28\u00b0",
+                "condition_icon": "/images/weathericons/6.svg"
+            }
+        ],
+        "status_code": 200,
+        "date": "2024-09-10"
+    },
+    {
+        "weather": [
+            {
+                "city": "Alor Setar",
+                "temperature": "29\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Ampang Jaya",
+                "temperature": "29\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Batu Pahat",
+                "temperature": "30\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "George Town",
+                "temperature": "28\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Ipoh",
+                "temperature": "30\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Johor Bahru",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Kota Bharu",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Kota Kinabalu",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Kuala Lumpur",
+                "temperature": "29\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Kuala Terengganu",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Kuantan",
+                "temperature": "30\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Kuching",
+                "temperature": "28\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Malacca",
+                "temperature": "32\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Petaling Jaya",
+                "temperature": "30\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Port Klang",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Putrajaya",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Sandakan",
+                "temperature": "32\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Seremban",
+                "temperature": "30\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            },
+            {
+                "city": "Shah Alam",
+                "temperature": "31\u00b0",
+                "condition_icon": "/images/weathericons/3.svg"
+            },
+            {
+                "city": "Subang Jaya",
+                "temperature": "30\u00b0",
+                "condition_icon": "/images/weathericons/7.svg"
+            }
+        ],
+        "status_code": 200,
+        "date": "2024-09-11"
+    }
+]
